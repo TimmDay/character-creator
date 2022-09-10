@@ -2,8 +2,8 @@
     white-space: nowrap;
     overflow: auto;
 
-    /* Bring scrollbar to edge of container */
-    /* Parent has 24px of padding */
+    /* Bring scrollbar to edge of container. */
+    /* Parent has 24px of padding. */
     margin-left: -21px;
     margin-right: -21px;
     margin-bottom: -21px;

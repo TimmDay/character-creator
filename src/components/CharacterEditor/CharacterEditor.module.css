@@ -4,6 +4,7 @@
 }
 
 .maxWidthWrapper {
+  position: relative;
 }
 
 .header {
@@ -30,13 +31,17 @@
   top: 128px;
   left: calc(50% + 64px);
   bottom: 5%;
-  /* height: 250px; */
 }
 
 .controlColumn {
   width: 50%;
 }
 
-main {
+.uiFlourishFloor {
   background-color: hsl(195deg, 20%, 86%);
+  height: 40%;
+  width: 100%;
+  position: fixed;
+  left: 0;
+  bottom: 0;
 }
